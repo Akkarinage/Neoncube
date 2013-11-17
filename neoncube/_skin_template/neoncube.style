@@ -1,0 +1,80 @@
+;##############################################################################
+;##  NEONCUBE - RAGNAROK ONLINE PATCH CLIENT (GNU General Public License)
+;##
+;##  http://openkore.sourceforge.net/neoncube
+;##  (c) 2005 Ansell "Cliffe" Cruz (Cliffe@xeronhosting.com)
+;##
+;##############################################################################
+
+; neoncube.style
+; configure the appearance of controls of the patch client.
+
+; xcoord = X coordinate of a control
+; ycoord = Y coordinate of a control
+; width = width of a control
+; height = height of a control
+
+;minimize button
+[minimize]
+xcoord=
+ycoord=
+width=
+height=
+
+;close button
+[close]
+xcoord=
+ycoord=
+width=
+height=
+
+;start game button
+[startgame]
+xcoord=
+ycoord=
+width=
+height=
+
+;register button
+[register]
+xcoord=
+ycoord=
+width=
+height=
+
+;cancel button
+[cancel]
+xcoord=
+ycoord=
+width=
+height=
+
+;notice (browser) window
+[notice]
+xcoord=
+ycoord=
+width=
+height=
+
+;progress bar
+[progressbar]
+xcoord=
+ycoord=
+width=
+height=
+style=
+
+;frame window
+[frame]
+xcoord=
+ycoord=
+width=
+height=
+
+;Status message
+[text]
+xcoord=
+ycoord=
+width=
+height=
+
